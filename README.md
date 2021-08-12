@@ -9,7 +9,7 @@
 <div>
   <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲:</h2>
   <li>💻 𝖨'𝗆 𝗌𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 and back-end 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-  <li>🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Java/Python </li>
+  <li>🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Java/Javascript </li>
   <li>😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
   <img align="right" alt="Pedro-gif" height="200" width="200"  src="https://github.com/BrPedro-dev/BrPedro-dev/blob/main/assents/mygif.gif">
 </div>
@@ -41,4 +41,4 @@
 #
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/BrPedro-dev"</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 03/08/2021 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 13/08/2021 </p>
