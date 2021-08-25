@@ -3,8 +3,8 @@
 ## Hii!! My name is Pedro<img height="30" src="https://github.com/BrPedro-dev/BrPedro-dev/blob/main/assents/Hi.gif"/>
  <div>
   <a href="https://github.com/BrPedro-Dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=BrPedro-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrPedro-dev&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api?username=BrPedro-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrPedro-dev&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
     
 ##    
