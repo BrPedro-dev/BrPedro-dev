@@ -1,3 +1,5 @@
+<img src= "https://github.com/BrPedro-dev/BrPedro-dev/blob/main/assents/bg.png"/>
+
 ## Hii!! My name is Pedro<img height="30" src="https://github.com/BrPedro-dev/BrPedro-dev/blob/main/assents/Hi.gif"/>
  <div>
   <a href="https://github.com/BrPedro-Dev">
@@ -41,4 +43,4 @@
 #
 
 <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/BrPedro-dev"</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 13/08/2021 </p>
+<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 25/08/2021 </p>
